@@ -1,0 +1,12 @@
+/Users/ismail2.aktas/Projects/AbstractSample/AbstractSample/bin/Debug/netcoreapp3.1/AbstractSample.deps.json
+/Users/ismail2.aktas/Projects/AbstractSample/AbstractSample/bin/Debug/netcoreapp3.1/AbstractSample.runtimeconfig.json
+/Users/ismail2.aktas/Projects/AbstractSample/AbstractSample/bin/Debug/netcoreapp3.1/AbstractSample.runtimeconfig.dev.json
+/Users/ismail2.aktas/Projects/AbstractSample/AbstractSample/bin/Debug/netcoreapp3.1/AbstractSample.dll
+/Users/ismail2.aktas/Projects/AbstractSample/AbstractSample/bin/Debug/netcoreapp3.1/AbstractSample.pdb
+/Users/ismail2.aktas/Projects/AbstractSample/AbstractSample/obj/Debug/netcoreapp3.1/AbstractSample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ismail2.aktas/Projects/AbstractSample/AbstractSample/obj/Debug/netcoreapp3.1/AbstractSample.AssemblyInfoInputs.cache
+/Users/ismail2.aktas/Projects/AbstractSample/AbstractSample/obj/Debug/netcoreapp3.1/AbstractSample.AssemblyInfo.cs
+/Users/ismail2.aktas/Projects/AbstractSample/AbstractSample/obj/Debug/netcoreapp3.1/AbstractSample.csproj.CoreCompileInputs.cache
+/Users/ismail2.aktas/Projects/AbstractSample/AbstractSample/obj/Debug/netcoreapp3.1/AbstractSample.dll
+/Users/ismail2.aktas/Projects/AbstractSample/AbstractSample/obj/Debug/netcoreapp3.1/AbstractSample.pdb
+/Users/ismail2.aktas/Projects/AbstractSample/AbstractSample/obj/Debug/netcoreapp3.1/AbstractSample.genruntimeconfig.cache
